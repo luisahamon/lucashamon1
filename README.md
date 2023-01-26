@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Lucas Hamon</h1>
-<h3 align="center">Um apaixonado por Ciência de Dados do Brasil</h3>
+<h1 align="center">Hi 👋, I'm Luisa Hamon</h1>
+<h3 align="center">Uma apaixonada por Ciência de Dados do Brasil</h3>
 
 - 📫 Como chegar até mim **lucashamon86@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/lucas-hamon-2488b2166/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lucas-hamon-2488b2166/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/luisa-hamon/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/luisa-hamon/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
