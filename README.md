@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luisa Hamon</h1>
 <h3 align="center">Uma apaixonada por Ciência de Dados do Brasil</h3>
 
-- 📫 Como chegar até mim **lucashamon86@gmail.com**
+- 📫 Como chegar até mim **luisahamon2@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -15,4 +15,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucashamon1&show_icons=true&locale=en" alt="lucashamon1" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucashamon1&" alt="lucashamon1" /></p>
+
